@@ -1,0 +1,6 @@
+Field;PercentAgree_Pre;PercentAgree_Post;CohenKappa_Pre;CohenKappa_Post;NumDisagreements;NumResolved;MeanResolutionTime_min;Notes
+HasRecovered;90.0;100.0;0.79;1.0;1;1;NA;One label used Partially instead of the required Yes/No choice. We resolved it after discussing the evidence.
+WhyRecovered;90.0;100.0;NA;NA;1;1;NA;The disagreement came from whether limited outside contributions counted as a recovery.
+ActivityPattern;100.0;100.0;1.0;1.0;0;0;NA;We used the same labels for all ten projects.
+Currentstatus;60.0;100.0;0.09;1.0;4;4;NA;Most disagreements came from applying the April 1, 2025 activity cutoff.
+RecentThemes;20.0;100.0;NA;NA;8;8;NA;This field had the most disagreements because the same commits can fit more than one theme.
