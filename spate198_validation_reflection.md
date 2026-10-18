@@ -1,0 +1,9 @@
+# Validation Reflection — spate198
+
+When I verified these projects, one thing I noticed was that long gaps usually happened when the amount of work was declining or becoming less consistent. Most of these projects were labeled as declining. Although some projects became active again after a long gap, this shows that a long gap does not always mean that a project is dead.
+
+Most often, these projects came back because there was specific work that needed to be done. Some returned for compatibility or dependency fixes, while others returned for a release, documentation, or new features. For example, Calamari returned for compatibility fixes and a release, Pajarito returned for Julia packaging and CI updates, and PyProcar returned for a large refactor. These examples show that outside changes can bring developers back to an older project after a long gap.
+
+It should also be mentioned that some projects only returned for a short amount of time, while others did not really recover. Peregrine had a few commits after a long gap, but the work did not continue, so we kept its recovery label as No. Google Research Football also had limited activity at first. We agreed that it recovered, but the recovery was not very strong. This was a difficult decision because a few commits do not always mean that normal development has resumed.
+
+The biggest hurdles in our validation were deciding what counted as recovery, applying the active-date cutoff, and identifying recent commit themes. We fixed the status disagreements by using April 1, 2025 as the cutoff date. We fixed the theme disagreements by reading the latest default-branch commits instead of guessing from release names. Talking through the evidence made our labels more consistent and helped us reach agreement on every disagreement.
